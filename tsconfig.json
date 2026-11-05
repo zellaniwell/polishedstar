@@ -4,3 +4,5 @@ module.exports = {
 }
 cache-dir: ~/.cache
 registry: default
+
+# c17101
